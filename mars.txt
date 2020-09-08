@@ -1,4 +1,3 @@
 Beautiful planet.
 Very dry!
-Very clod!
-
+Changes made on github
